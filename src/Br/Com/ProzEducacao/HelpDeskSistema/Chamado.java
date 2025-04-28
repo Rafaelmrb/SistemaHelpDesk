@@ -32,7 +32,6 @@ public class Chamado {
         return solicitante;
     }
 
-    @Override
     public String toString() {
         return "Chamado: " + titulo +
                "\nDescrição: " + descricao +

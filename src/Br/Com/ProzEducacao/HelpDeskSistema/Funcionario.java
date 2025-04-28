@@ -15,7 +15,6 @@ public class Funcionario {
         return nome;
     }
 
-    @Override
     public String toString() {
         return nome + " (" + setor + ", " + email + ")";
     }

@@ -13,7 +13,6 @@ public class Tecnico {
         return nome;
     }
 
-    @Override
     public String toString() {
         return nome + " - " + especialidade;
     }
